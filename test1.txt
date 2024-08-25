@@ -15,3 +15,6 @@ git push -u origin main
 git remote add origin git@github.com:sbng888/my-frst-repo.git
 git branch -M main
 git push -u origin main
+
+
+anther text
